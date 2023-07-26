@@ -1,1 +1,2 @@
-0x00-pascal_triangle task
+0x00-pascal_triangle task 
+
